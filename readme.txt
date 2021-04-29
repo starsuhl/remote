@@ -8,7 +8,6 @@ git is a distributed version control system
 git is a free software
 git is free
 
-free 
 
 
 biancheng dushu javajiaocheng pythonjiaocheng
